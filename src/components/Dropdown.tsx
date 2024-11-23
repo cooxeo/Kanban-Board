@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Display from "../assets/icons_FEtask/Display.svg"
-import Down from "../assets/icons_FEtask/Down.svg"
+import Down from "../assets/icons_FEtask/down.svg"
 
 const DropdownMenu: React.FC = () => {
     const [grouping, setGrouping] = useState("Status");
